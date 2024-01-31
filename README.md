@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Lab rats**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m learning **Unity**
 
 - 💬 Ask me about **games, unity and game design**
 
