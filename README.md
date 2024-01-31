@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jakub, second year student in WSEI Krakow.</h1>
-<h3 align="center">A future Game Level Designer.</h3>
+<h3 align="center">A future level game designer.</h3>
 <img align="right" alt="Game gif" width="400" src="https://www.icegif.com/wp-content/uploads/video-games-icegif-1.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawaii-kubus&label=Profile%20views&color=0e75b6&style=flat" alt="kawaii-kubus" /> </p>
