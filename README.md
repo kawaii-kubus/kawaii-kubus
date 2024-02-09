@@ -26,3 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawaii-kubus&" alt="kawaii-kubus" /></p>
 
+<h1 align="center">Projects</h1>
+
