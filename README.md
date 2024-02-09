@@ -27,7 +27,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawaii-kubus&" alt="kawaii-kubus" /></p>
 
 <h1 align="center">Projects</h1>
-<h3 align="center">Silent wood horror</h3>
+<h3 align="left">Silent wood horror</h3>
 
 ![Image](https://github.com/kawaii-kubus/Samaran/blob/92029f4e8e3a93c7a333e2d75eff052ea7450f87/4.PNG)
 
